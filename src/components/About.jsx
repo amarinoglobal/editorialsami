@@ -28,15 +28,14 @@ const About = () => {
 
         className="md:w-2/5">
           <h2 className="md:text-5xl text-3xl font-bold text-primary mb-5 leading-normal">
-            We have been improving our product 
-            <span className="text-secondary leading-normal"> for many years.</span>
+            Muchos años de experiencia  
+            <span className="text-secondary leading-normal"> enriqueciendo mentes</span>
           </h2>
           <p className="text-tertiary text-lg mb-7">
-            A good example of a paragraph contains a topic conclusion. There are
-            many different kinds of animals that live in China.
+          En Editorial Sami fomentamos la pasión por la lectura con libros que inspiran, educan y enriquecen. Somos tu mejor opción en cada página.
           </p>
-          <button className="py-3 px-7 bg-secondary font-semibold text-white rounded hover:bg-primary transition-all duration-300">
-            Get Started
+          <button className="py-3 px-7 bg-primary font-semibold text-white rounded hover:bg-secondary transition-all duration-300">
+            Nuestra historia
           </button>
         </motion.div>
       </div>
@@ -62,15 +61,14 @@ const About = () => {
                 viewport={{ once: false, amount: 0.7 }}
         className="md:w-2/5">
           <h2 className="md:text-5xl text-3xl font-bold text-primary mb-5 leading-normal">
-          You can Practice at any 
-            <span className="text-secondary leading-normal"> time convinent for you.</span>
+          Siguenos en nuestras redes sociales<br/>
+            <span className="text-secondary leading-normal"> y eventos academicos</span>
           </h2>
           <p className="text-tertiary text-lg mb-7">
-            A good example of a paragraph contains a topic conclusion. There are
-            many different kinds of animals that live in China.
+          Únete a la comunidad de lectores de Editorial Sami. Síguenos en redes sociales para estar al tanto de nuestras publicaciones, eventos académicos y descubrir historias que enriquecen la mente. ¡Te esperamos! 
           </p>
-          <button className="py-3 px-7 bg-secondary font-semibold text-white rounded hover:bg-primary transition-all duration-300">
-            Get Started
+          <button className="py-3 px-7 bg-primary font-semibold text-white rounded hover:bg-secondary transition-all duration-300">
+            Saber más
           </button>
         </motion.div>
       </div>

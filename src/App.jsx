@@ -17,7 +17,6 @@ function App() {
       <Home/>
       <Feature/>
       <About/>
-      <Pricing/>
       <Newsletter/>
       <Footer/>
     </>

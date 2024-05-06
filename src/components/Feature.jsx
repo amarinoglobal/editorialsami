@@ -18,12 +18,10 @@ const Feature = () => {
         viewport={{ once: false, amount: 0.7 }}
         className="lg:w-1/4">
           <h3 className="text-3xl text-primary font-bold lg:w-1/2 mb-3">
-            Why we are better than others
+            Porque somos tu mejor opción
           </h3>
           <p className="text-base text-tertiary">
-            A simple paragraph is comprised of three major components. The first
-            sentence, which is often a declarative sentence, is called the
-            “topic sentence.”
+          En Editorial Sami, fomentamos la pasión por la lectura con libros que inspiran, educan y enriquecen, siendo tu mejor opción en cada página.”
           </p>
         </motion.div>
 
@@ -39,7 +37,7 @@ const Feature = () => {
             <div>
               <img src={featureImg} alt="" />
               <h5 className="text-2xl font-semibold text-primary px-5 text-center mt-5">
-                Conventient study schedule
+                Variedad de Contenido
               </h5>
             </div>
           </div>
@@ -47,7 +45,7 @@ const Feature = () => {
             <div>
               <img src={featureImg} alt="" />
               <h5 className="text-2xl font-semibold text-primary px-5 text-center mt-5">
-                Conventient study schedule
+                Calidad Literaria
               </h5>
             </div>
           </div>
@@ -55,7 +53,7 @@ const Feature = () => {
             <div>
               <img src={featureImg} alt="" />
               <h5 className="text-2xl font-semibold text-primary px-5 text-center mt-5">
-                Conventient study schedule
+                Compromiso con la comunida lectora
               </h5>
             </div>
           </div>
